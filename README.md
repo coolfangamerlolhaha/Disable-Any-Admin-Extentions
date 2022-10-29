@@ -1,0 +1,2 @@
+# Disable-Any-Admin-Extentions
+*NOT MINE!* CREDITS TO COMPACT COW FOR THE SCRIPT!
